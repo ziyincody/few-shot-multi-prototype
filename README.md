@@ -8,6 +8,7 @@ Download the dataset from https://drive.google.com/file/d/1pY4uFUxXVUModA0AQqMEw
 
 Follow few-shot.ipynb to setup your training in google colab.
 
+## Snapshots
 Snapshot for Set 2 1way1shot with vgg backbone + multi-prototype + k-means adjustment + distance loss => 0.504 
 https://drive.google.com/file/d/18rnxDxccjyaJ0exNaQmLBsD-CZ_NDdJI/view?usp=sharing
 
@@ -16,6 +17,7 @@ https://drive.google.com/file/d/16IZtq3a_Lk_jref9G3hnQWnar22iqLlH/view?usp=shari
 
 Original paper's snapshot I was only able to achieve 0.477 on colab after training
 
+## Other resources
 Other things that have tried which didn't help
 - Using saliency classifier to assist
 - Training saliency on a dominant dataset then assist
