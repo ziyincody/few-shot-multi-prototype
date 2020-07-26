@@ -20,3 +20,7 @@ Other things that have tried which didn't help
 - Using saliency classifier to assist
 - Training saliency on a dominant dataset then assist
 - multi step k-means
+
+Useful resources
+- Few-shot semantic segmentation paper https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers
+- Meta-learning tutorial https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html
