@@ -8,8 +8,10 @@ Download the dataset from https://drive.google.com/file/d/1pY4uFUxXVUModA0AQqMEw
 
 Follow few-shot.ipynb to setup your training in google colab.
 
-Set 2 1way1shot with vgg backbone + multi-prototype + k-means adjustment + distance loss => 0.504 
+Snapshot for Set 2 1way1shot with vgg backbone + multi-prototype + k-means adjustment + distance loss => 0.504 
 https://drive.google.com/file/d/18rnxDxccjyaJ0exNaQmLBsD-CZ_NDdJI/view?usp=sharing
 
-Set 2 1way1shot with vgg backbone + multi-prototype + k-means adjustment => 0.503
+Snapshot for Set2 1way1shot with vgg backbone + multi-prototype + k-means adjustment => 0.503
 https://drive.google.com/file/d/16IZtq3a_Lk_jref9G3hnQWnar22iqLlH/view?usp=sharing
+
+Original paper's snapshot I was only able to achieve 0.477 on colab after training
