@@ -15,3 +15,8 @@ Snapshot for Set2 1way1shot with vgg backbone + multi-prototype + k-means adjust
 https://drive.google.com/file/d/16IZtq3a_Lk_jref9G3hnQWnar22iqLlH/view?usp=sharing
 
 Original paper's snapshot I was only able to achieve 0.477 on colab after training
+
+Other things that have tried which didn't help
+- Using saliency classifier to assist
+- Training saliency on a dominant dataset then assist
+- multi step k-means
