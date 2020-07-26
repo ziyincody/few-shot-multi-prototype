@@ -17,12 +17,12 @@ https://drive.google.com/file/d/16IZtq3a_Lk_jref9G3hnQWnar22iqLlH/view?usp=shari
 
 Original paper's snapshot I was only able to achieve 0.477 on colab after training
 
-## Other resources
+## Other things have tried
 Other things that have tried which didn't help
 - Using saliency classifier to assist
 - Training saliency on a dominant dataset then assist
 - multi step k-means
 
-Useful resources
+## Useful resources
 - Few-shot semantic segmentation paper https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers
 - Meta-learning tutorial https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html
